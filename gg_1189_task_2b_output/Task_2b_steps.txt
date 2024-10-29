@@ -1,0 +1,15 @@
+Team ID = 1189
+Trained weights drive link = "https://drive.google.com/file/d/1a401RsWYX6jnlqWh7akxbPN-3yxeL9Um/view?usp=sharing"
+
+###############################################################################
+'''
+Please write the complete steps taken by your team explaining how you completed Task 2B. It is adviced to be as elaborate as possible.
+
+1. We first perform resizing our datasets of training and testing
+
+2. we perform data augmentation and data preprocessing techniques
+
+3. then we used a pre trained model YOLO and trained our data steps
+
+4. We then finetuned it and thus got the output
+
